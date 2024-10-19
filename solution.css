@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0px;
+}
+
+.code-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+   text-align: center;
+   font-size: 10px;
+   color:green;
+}
+
+.problem-box {
+    margin-top: 20px;
+}
+
+.problem-box h2 {
+    color: #333;
+}
+
+.problem-box p {
+    font-size: 1.1em;
+}
+
+.code-snippet {
+    background-color: #282c34;
+    color: #abb2bf;
+    padding: 15px;
+    border-radius: 5px;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    position: relative;
+}
+
+.keyword {
+    color: #c678dd;
+}
+
+.function-name {
+    color: #61dafb;
+}
+
+.datatype {
+    color: #e06c75;
+}
+
+.comment {
+    color: #5c6370;
+    font-style: italic;
+}
+
+.copy-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.copy-btn:hover {
+    background-color: #45a049;
+}
+

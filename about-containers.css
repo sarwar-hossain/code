@@ -1,0 +1,52 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    
+    background: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3 {
+    color: #0056b3;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+p, ul {
+    margin-bottom: 15px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.operation {
+    background: #e9f2fa;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-left: 4px solid #0056b3;
+}
+
+code {
+    background: #e7e7e7;
+    padding: 2px 4px;
+    border-radius: 4px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1em;
+}
+
