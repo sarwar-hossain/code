@@ -1,0 +1,17 @@
+{
+    "name": "Code preparation",
+    "short_name": "Code preparation",
+    "description": "Code preparation",
+    "icons": [
+      {
+        "src": "/picture/logo.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "blue",
+    "theme_color": "blue"
+  }
+  
